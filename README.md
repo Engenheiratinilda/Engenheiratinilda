@@ -1,16 +1,17 @@
-## Hi there 👋
+Olá, eu sou a tinilda
 
-<!--
-**Engenheiratinilda/Engenheiratinilda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engenheira em formação -Apaixonada por python e Tecnologia
+Luanda,Angola
 
-Here are some ideas to get you started:
+projeto atual:/projecto zona 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Aprendendo :Git,Github,Redes de computadores e Python
+
+###Tecnologias 
+Git E Github
+Redes de computadores
+Python
+
+>"Engenharia não é só calcular ,é construir o futuro!"
+
+Vamos conectar!
