@@ -11,7 +11,9 @@ Aprendendo :Git,Github,Redes de computadores e Python
 
 
 -Git E Github
+
 -Redes de computadores
+
 -Python
 
 >"Engenharia não é só calcular ,é construir o futuro!"
