@@ -7,7 +7,9 @@ projeto atual:/projecto zona
 
 Aprendendo :Git,Github,Redes de computadores e Python
 
-###Tecnologias 
+###Tecnologias
+
+
 Git E Github
 Redes de computadores
 Python
